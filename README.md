@@ -1,5 +1,7 @@
 # AngularHttpNodatetime
 
+This project shows how to add a method to the native Date type. The method toLocalDateISOString return an ISO formatted string without time and time zone.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server
